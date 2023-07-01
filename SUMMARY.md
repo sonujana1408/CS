@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Python](README.md)
+* [Haikus for Codespaces](README.md)
